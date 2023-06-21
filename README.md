@@ -16,22 +16,18 @@ Alternatively, you can download a ZIP archive of the repository and extract it t
 
 The repository contains the following directories:
 
-- `examples`: Code examples that demonstrate various Python concepts and features.
-- `exercises`: Practice exercises for applying the concepts learned in the examples.
-- `solutions`: Sample solutions for the exercises (provided for reference only).
-- `tests`: Automated tests for the exercises (requires pytest library).
+- `notebooks`: Jupyter notebooks with code examples and exercises.
+- `data`: Sample datasets used in the notebooks.
 
 ## Usage
 
-You can run the example scripts by executing the Python interpreter with the filename as an argument:
+You can run the Jupyter notebooks by starting a Jupyter server in the repository directory:
 ```
-python examples/hello_world.py
+jupyter notebook
 ```
-You can run the exercises by editing the files in the `exercises` directory and running the corresponding test script in the `tests` directory:
-```
-python tests/test_hello_world.py
-```
-The tests will check if your code produces the expected output for each exercise.
+This should open a web browser with the Jupyter interface. You can then navigate to the `notebooks` directory and open the desired notebook.
+
+The notebooks contain code examples and exercises that demonstrate various machine learning concepts and techniques. You can run the code cells in the notebooks by clicking on them and pressing `Shift+Enter`.
 
 ## Contributing
 
