@@ -54,7 +54,6 @@ This repository covers the following topics:
 - File I/O
 - Exception handling
 - Modules and packages
-- Object-oriented programming (classes, objects, inheritance)
 
 Each of these topics is explained in detail through code examples and exercises in the `examples` and `exercises` directories. The examples demonstrate how to use the various Python concepts and features, while the exercises provide hands-on practice for applying the concepts in different scenarios.
 
