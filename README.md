@@ -8,7 +8,7 @@ To use the materials in this repository, you should have Python 3 installed on y
 
 Once you have Python installed, you can clone this repository to your local machine using Git:
 ```
-git clone https://github.com/your-username/python-basics.git
+git clone https://github.com/farhadlotfii/python-basics.git
 ```
 Alternatively, you can download a ZIP archive of the repository and extract it to a local folder.
 
@@ -31,11 +31,7 @@ The notebooks contain code examples and exercises that demonstrate various machi
 
 ## Contributing
 
-If you find a bug or have a suggestion for improving the materials, you can create an issue on the [GitHub repository page](https://github.com/your-username/python-basics/issues). You can also submit a pull request if you want to contribute code changes.
-
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for details.
+If you find a bug or have a suggestion for improving the materials, you can create an issue on the [GitHub repository page](https://github.com/farhadlotfii/python-basics/issues). You can also submit a pull request if you want to contribute code changes.
 
 ## Topics
 
